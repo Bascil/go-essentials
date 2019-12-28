@@ -1,6 +1,5 @@
-// Go application with hot/dymnamic reloading
+// Go application with hot/dynamic reloading
 
-// Is the first thing that runs when we start the application
 package main 
 
 // Import packages fmt - printing things out , net/http -create a web server 
