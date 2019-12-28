@@ -1,5 +1,4 @@
 # Ignore configuration files
 *.conf
-
 # Ignore temporary files
 tmp
