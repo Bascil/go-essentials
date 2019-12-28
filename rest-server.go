@@ -9,6 +9,7 @@ import (
    )
   
 func index(w http.ResponseWriter, r *http.Request) {  // Response writer and a pointer to a request
+	w.Header().Set("Content-Type","text/html")
 	fmt.Fprintf(w, "home")
 
 }
